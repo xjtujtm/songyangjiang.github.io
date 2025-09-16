@@ -1,10 +1,10 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a Bachelor's degree in Electrical Engineering and its Automation at the School of Electrical Engineering, Xi'an Jiaotong University, China.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>jiangsongyang@stu.xjtu.edu.cn</code>  
+<code>1225603711@qq.com</code>
 
 #### Education  
 **XX University**, Master of XX (XX – XX)  
