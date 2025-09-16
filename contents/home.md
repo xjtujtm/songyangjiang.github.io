@@ -1,4 +1,4 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/xjtujtm)
 
 I'm currently pursuing a Bachelor's degree in Electrical Engineering and its Automation at the School of Electrical Engineering, Xi'an Jiaotong University, China.
 
@@ -7,14 +7,13 @@ I'm currently pursuing a Bachelor's degree in Electrical Engineering and its Aut
 <code>1225603711@qq.com</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Xi'an Jiaotong University**, Young Gifted Program, Pre-college student (2022.9 – 2024.6) <br>
+• GPA: 3.70/4.3 &ensp; Average score: 87.61 <br>  
 
 **XX University**, Exchange student <br>  
 • As a XX, represented my college as an outstanding student for a XX exchange program.  
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+
 
 #### Research Interests  
-XX, XX, XX, XX.
+Array Sensor, Arc Fault Detection, FEM.
