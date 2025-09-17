@@ -4,7 +4,6 @@
 
 ---
 
-
 I'm currently pursuing a Bachelor's degree in Electrical Engineering and its Automation at the School of Electrical Engineering, Xi'an Jiaotong University, China.
 
 #### Email
