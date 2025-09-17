@@ -16,8 +16,8 @@
 - Xi'an Jiaotong University Third Class Scholarship, 2024.
 
 - Xi'an Jiaotong University "Give Me Five" Undergraduate Overseas Exchange Fund, 2025.   
-The first batch of winners received full funding to participate in the Worcester College Engineering Winter Camp Program at the Oxford University, UK.
+The first batch of winners received full funding to participate in the Engineering Winter Camp Program, Worcester College, Oxford University.
 
 - Xi'an Jiaotong University "Nanyang Newcomer", 2025.
 
-- Xi'an Jiaotong University The "1996 Electrical Alumni Scholarship - Zhang Wenbo&Zhang Jing Couple Scholarship", 2025.
+- Xi'an Jiaotong University The "1996 Electrical Engineering Alumni Scholarship - Zhang Wenbo&Zhang Jing Couple Scholarship", 2025.
