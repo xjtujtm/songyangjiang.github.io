@@ -23,7 +23,7 @@ I'm currently pursuing a Bachelor's degree in Electrical Engineering and its Aut
 
 **Xi'an Jiaotong University**, Electrical Engineering and its Automation, Undergraduate (2024.9 ‑ So far) <br>
 • GPA: 3.77/4.3 &ensp; Average score：89.35 &ensp; Ranking: 76/422 <br>
-• Major Courses：Advanced MathematicsI‑1 (95/100), Linear Algebra and Analytic Geometry (95/100), Circuit (96/100) <br>
+• Major Courses：Advanced Mathematics I‑1 (95/100), Linear Algebra and Analytic Geometry (95/100), Circuit (96/100) <br>
 • Language Proficiency：CET4 615, CET6 635, TOEFL 101
 
 ---
