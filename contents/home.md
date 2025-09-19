@@ -8,7 +8,6 @@ I'm currently pursuing a Bachelor's degree in Electrical Engineering and its Aut
 
 #### Email
 <code>jiangsongyang@stu.xjtu.edu.cn</code>  
-<code>1225603711@qq.com</code>
 
 #### 教育经历
 **西安交通大学** &ensp; 少年班 &ensp; 预科 &ensp; （2022年9月‑2024年6月）<br>
@@ -30,7 +29,7 @@ I'm currently pursuing a Bachelor's degree in Electrical Engineering and its Aut
 ---
 
 #### 研究方向
-阵列传感器，电弧故障检测
+阵列电流传感器，电弧故障检测
 
 #### Research Interests  
-Array Sensor, Arc Fault Detection
+Array Current Transducer, Arc Fault Detection
