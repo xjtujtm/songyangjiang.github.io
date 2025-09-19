@@ -1,4 +1,4 @@
-[![xjtujtm](https://img.shields.io/badge/xjtujtm-github-blue?logo=github)](https://github.com/xjtujtm)
+<!--[![xjtujtm](https://img.shields.io/badge/xjtujtm-github-blue?logo=github)](https://github.com/xjtujtm)-->
 
 我正在西安交通大学电气工程学院电气工程及其自动化专业攻读学士学位。
 
