@@ -2,12 +2,14 @@
 
 我正在西安交通大学电气工程学院电气工程及其自动化专业攻读学士学位。
 
----
-
 I'm currently pursuing a Bachelor's degree in Electrical Engineering and its Automation at the School of Electrical Engineering, Xi'an Jiaotong University, China.
+
+---
 
 #### Email
 <code>jiangsongyang@stu.xjtu.edu.cn</code>  
+
+---
 
 #### 教育经历
 **西安交通大学** &ensp; 少年班 &ensp; 预科 &ensp; （2022年9月‑2024年6月）<br>
